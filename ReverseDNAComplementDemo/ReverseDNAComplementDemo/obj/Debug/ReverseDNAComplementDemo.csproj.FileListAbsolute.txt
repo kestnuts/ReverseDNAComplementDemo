@@ -1,1 +1,9 @@
 C:\Users\Kestnuts\Source\Repos\ReverseDNAComplementDemo\ReverseDNAComplementDemo\ReverseDNAComplementDemo\bin\Debug\ReverseDNAComplementDemo.exe.config
+C:\Users\Kestnuts\Source\Repos\ReverseDNAComplementDemo\ReverseDNAComplementDemo\ReverseDNAComplementDemo\obj\Debug\ReverseDNAComplementDemo.csprojResolveAssemblyReference.cache
+C:\Users\Kestnuts\Source\Repos\ReverseDNAComplementDemo\ReverseDNAComplementDemo\ReverseDNAComplementDemo\obj\Debug\ReverseDNAComplementDemo.Form1.resources
+C:\Users\Kestnuts\Source\Repos\ReverseDNAComplementDemo\ReverseDNAComplementDemo\ReverseDNAComplementDemo\obj\Debug\ReverseDNAComplementDemo.Properties.Resources.resources
+C:\Users\Kestnuts\Source\Repos\ReverseDNAComplementDemo\ReverseDNAComplementDemo\ReverseDNAComplementDemo\obj\Debug\ReverseDNAComplementDemo.csproj.GenerateResource.Cache
+C:\Users\Kestnuts\Source\Repos\ReverseDNAComplementDemo\ReverseDNAComplementDemo\ReverseDNAComplementDemo\bin\Debug\ReverseDNAComplementDemo.exe
+C:\Users\Kestnuts\Source\Repos\ReverseDNAComplementDemo\ReverseDNAComplementDemo\ReverseDNAComplementDemo\bin\Debug\ReverseDNAComplementDemo.pdb
+C:\Users\Kestnuts\Source\Repos\ReverseDNAComplementDemo\ReverseDNAComplementDemo\ReverseDNAComplementDemo\obj\Debug\ReverseDNAComplementDemo.exe
+C:\Users\Kestnuts\Source\Repos\ReverseDNAComplementDemo\ReverseDNAComplementDemo\ReverseDNAComplementDemo\obj\Debug\ReverseDNAComplementDemo.pdb
